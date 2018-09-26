@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14177" started-at="2018-09-24T16:03:12Z" finished-at="2018-09-24T16:03:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14177" started-at="2018-09-24T16:03:12Z" finished-at="2018-09-24T16:03:27Z">
+      <class name="practiceTests.SchemaValidationPost">
+        <test-method status="PASS" signature="EmployeeAddition()[pri:0, instance:practiceTests.SchemaValidationPost@e25b2fe]" name="EmployeeAddition" duration-ms="14097" started-at="2018-09-24T16:03:13Z" finished-at="2018-09-24T16:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmployeeAddition -->
+      </class> <!-- practiceTests.SchemaValidationPost -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
