@@ -1,0 +1,71 @@
+[{
+		"TestCase": "1",
+		"ExpectedStatus": "200",
+		"API_Body": [{
+			"canCreateBcsEliteDocuments": "0",
+			"companyName": "Shiva Inc.",
+			"companyPhone": null,
+			"companySize": 0,
+			"companyUrl": "shivajain.com",
+			"configurationName": "01 ThinkHR Config",
+			"custom1": null,
+			"custom2": null,
+			"custom3": null,
+			"custom4": null,
+			"displayName": "Shiva Inc.",
+			"industry": "Agriculture",
+			"producer": "Shiva Jain",
+			"location": {
+				"address2": null,
+				"address": null,
+				"businessType": "Private",
+				"employeeCount": 4,
+				"industry": "Agriculture",
+				"industryClassification": null,
+				"isFederalContractor": null,
+				"isHQ": "0",
+				"isUnionized": null,
+				"locationName": "Primary Location",
+				"zip": "12345",
+				"city": "SCHENECTADY",
+				"state": "NY",
+				"county": "SCHENECTADY"
+			}
+		}]
+	},
+	{
+		"TestCase": "2",
+		"ExpectedStatus": "200",
+		"API_Body": [{
+			"canCreateBcsEliteDocuments": "0",
+			"companyName": "Arpit Inc.",
+			"companyPhone": null,
+			"companySize": 0,
+			"companyUrl": "arpithospital.com",
+			"configurationName": "01 ThinkHR Config",
+			"custom1": null,
+			"custom2": null,
+			"custom3": null,
+			"custom4": null,
+			"displayName": "Shiva Inc.",
+			"industry": "Agriculture",
+			"producer": "Shiva Jain",
+			"location": {
+				"address2": null,
+				"address": null,
+				"businessType": "Private",
+				"employeeCount": 4,
+				"industry": "Agriculture",
+				"industryClassification": null,
+				"isFederalContractor": null,
+				"isHQ": "0",
+				"isUnionized": null,
+				"locationName": "Primary Location",
+				"zip": "12345",
+				"city": "SCHENECTADY",
+				"state": "NY",
+				"county": "SCHENECTADY"
+			}
+		}]
+	}
+]

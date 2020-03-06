@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7953" started-at="2020-02-05T18:31:14 IST" finished-at="2020-02-05T18:31:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7953" started-at="2020-02-05T18:31:14 IST" finished-at="2020-02-05T18:31:22 IST">
+      <class name="tests.Company_CRUD.CreateCompany">
+        <test-method status="PASS" signature="GenerateOauthToken()[pri:1, instance:tests.Company_CRUD.CreateCompany@3a5ed7a6]" name="GenerateOauthToken" duration-ms="4410" started-at="2020-02-05T18:31:14 IST" finished-at="2020-02-05T18:31:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GenerateOauthToken -->
+        <test-method status="PASS" signature="Create_Company_TC01()[pri:3, instance:tests.Company_CRUD.CreateCompany@3a5ed7a6]" name="Create_Company_TC01" duration-ms="1850" started-at="2020-02-05T18:31:18 IST" depends-on-methods="tests.Company_CRUD.CreateCompany.GenerateOauthToken" finished-at="2020-02-05T18:31:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_Company_TC01 -->
+        <test-method status="PASS" signature="Create_Company_TC02()[pri:4, instance:tests.Company_CRUD.CreateCompany@3a5ed7a6]" name="Create_Company_TC02" duration-ms="1635" started-at="2020-02-05T18:31:20 IST" depends-on-methods="tests.Company_CRUD.CreateCompany.GenerateOauthToken" finished-at="2020-02-05T18:31:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_Company_TC02 -->
+      </class> <!-- tests.Company_CRUD.CreateCompany -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

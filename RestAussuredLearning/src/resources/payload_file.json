@@ -1,0 +1,92 @@
+{
+	"name": "User-Sys-Admin",
+	"description": "System Administrator",
+	"is_admin": "True",
+	"type": "thinkhr",
+	"permissions": [
+        {
+            "id": 52,
+            "featureKey": "bcs",
+            "displayLabel": "BCS",
+            "privilege": "ALL",
+            "apiResource": null,
+            "permissionKey": "bcs",
+            "skuId": 3,
+            "hasAccess": true,
+            "value": false,
+            "displayName": "ALL"
+        },
+        {
+            "id": 95,
+            "featureKey": "bcselite",
+            "displayLabel": "BCS Elite",
+            "privilege": "ALL",
+            "apiResource": null,
+            "permissionKey": "",
+            "skuId": 34,
+            "hasAccess": true,
+            "value": false,
+            "displayName": "ALL"
+        },
+        {
+            "id": 194,
+            "featureKey": "bcselite",
+            "displayLabel": "BCS Elite",
+            "privilege": "CREATE",
+            "apiResource": null,
+            "permissionKey": "bcselite",
+            "skuId": 34,
+            "hasAccess": true,
+            "value": false,
+            "displayName": "CREATE"
+        },
+        {
+            "id": 196,
+            "featureKey": "bcselite",
+            "displayLabel": "BCS Elite",
+            "privilege": "DELETE",
+            "apiResource": null,
+            "permissionKey": "bcselite",
+            "skuId": 34,
+            "hasAccess": true,
+            "value": false,
+            "displayName": "DELETE"
+        },
+        {
+            "id": 195,
+            "featureKey": "bcselite",
+            "displayLabel": "BCS Elite",
+            "privilege": "UPDATE",
+            "apiResource": null,
+            "permissionKey": "bcselite",
+            "skuId": 34,
+            "hasAccess": true,
+            "value": false,
+            "displayName": "UPDATE"
+        },
+        {
+            "id": 193,
+            "featureKey": "bcselite",
+            "displayLabel": "BCS Elite",
+            "privilege": "VIEW",
+            "apiResource": null,
+            "permissionKey": "bcselite",
+            "skuId": 34,
+            "hasAccess": true,
+            "value": false,
+            "displayName": "VIEW"
+        },
+        {
+            "id": 198,
+            "featureKey": "faqs",
+            "displayLabel": "BCS Elite FAQ'S",
+            "privilege": "VIEW",
+            "apiResource": null,
+            "permissionKey": "bcselite.faqs.view",
+            "skuId": 34,
+            "hasAccess": true,
+            "value": false,
+            "displayName": "VIEW"
+        }
+]
+}

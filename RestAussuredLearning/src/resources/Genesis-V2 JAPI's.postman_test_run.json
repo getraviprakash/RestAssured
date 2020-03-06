@@ -1,0 +1,40 @@
+{
+	"id": "c1652e06-b4d0-4434-a5be-0a583b1a9600",
+	"name": "Genesis-V2 JAPI's",
+	"timestamp": "2020-02-05T14:40:08.183Z",
+	"collection_id": "6c17a578-e333-45d8-9fe3-5ff268366933",
+	"folder_id": "1841093d-a8d9-4c40-b466-86a839e7efdf",
+	"environment_id": "211461d9-778a-4e9d-94a7-d82a229042ec",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "7bba2ee6-075c-4822-83cd-c32523c2572a",
+			"name": "Create Company",
+			"time": 291,
+			"responseCode": {
+				"code": 401,
+				"name": "Unauthorized"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1221,
+				291
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		}
+	],
+	"count": 2,
+	"collection": {
+		"requests": [
+			{
+				"id": "7bba2ee6-075c-4822-83cd-c32523c2572a",
+				"method": "POST"
+			}
+		]
+	}
+}
